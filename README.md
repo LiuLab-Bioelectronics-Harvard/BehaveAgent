@@ -1,5 +1,5 @@
 # BehaveAgent v1.0
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BehaveAIAgent?style=plastic&color=orange)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BehaveAIAgent?style=plastic&color=orange)](https://twitter.com/BehaveAIAgent)
 
 <img src="assets/logo.png" width="70">
 
