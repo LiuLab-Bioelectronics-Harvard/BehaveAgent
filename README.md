@@ -5,7 +5,7 @@
 
 *Autonomous AI agent for universal behavior analysis (BehaveAgent v1.0).*
 
-BehaveAgent automates behavior analysis from video without manual intervention, leveraging multimodal AI to generalize across species and experimental paradigms. It integrates LLMs, vision-language models, and visual grounding to perform tracking, temporal action detection, and behavior segmentation. BehaveAgent autonomously selects analysis strategies, generates code for custom analyses, and produces comprehensive reports, making behavior research scalable and interpretable.
+BehaveAgent automates behavior analysis from video without manual intervention, leveraging multimodal AI to generalize across species and experimental paradigms. It integrates LLMs, vision-language models, and visual grounding to perform tracking, temporal action detection, and behavior segmentation. BehaveAgent autonomously detects behavioral tasks and paradigms, selects appropriate analysis strategies, generates code for custom analyses, and produces comprehensive reports, introducing a new way of behavior analysis.
 
 ## Code Avalibility
 We are finalizing the code for end users, focusing on accessibility and ease of setup. Stay tuned – it’s coming soon!
