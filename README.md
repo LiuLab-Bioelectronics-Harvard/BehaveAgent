@@ -9,6 +9,7 @@ BehaveAgent automates behavior analysis from video without manual intervention, 
 
 ## Code Avalibility
 We are finalizing the code for end users, focusing on accessibility and ease of setup. Stay tuned – it’s coming soon!
+⭐ If you’re interested in following the development, consider starring this repository!
 
 ## Features
 
