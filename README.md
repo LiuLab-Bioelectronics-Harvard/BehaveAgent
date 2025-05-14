@@ -1,6 +1,5 @@
 # BehaveAgent v1.0
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/BehaveAIAgent?style=plastic&color=orange)
-
 <img src="assets/logo.png" width="50">
 
 *Autonomous AI agent for universal behavior analysis (BehaveAgent v1.0).*
