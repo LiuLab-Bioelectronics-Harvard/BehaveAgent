@@ -37,7 +37,7 @@ We are finalizing the code for end users, focusing on accessibility and ease of 
 │   ├── feature_tracking.py
 │   ├── behavior_segmentation.py
 │   ├── object_segment.py
-│   ├── sam2_tool.py   
+│   ├── goal_clarification_tool.py   
 │   ├── report.py
 │   ├── filter.py             
 │   ├── python_repl_tool.py   
